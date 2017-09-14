@@ -8,4 +8,4 @@
 ###### 4.点击"search"搜索按钮. 将 UnusedFiles文框中的类去xcode中全局搜索一下，再次确定是否使用。
 
 图片说明：
- ![https://github.com/HSFGitHub/XcodeProjectArrangementTool/blob/master/HSFCollatinFiles/1.png]
+ ![](https://github.com/HSFGitHub/XcodeProjectArrangementTool/blob/master/HSFCollatinFiles/1.png)
